@@ -13,6 +13,10 @@ header {
   background-size: cover;
 }
 
+header.pricing {
+  background-image: url(images/pricing_background.jpg)
+}
+
 .main-toggler {
   position: absolute;
   left: 10px;
@@ -33,4 +37,17 @@ header {
 
 .title-courses {
   font-family: "Coiny";
+}
+
+
+.section-search {
+  background-color: #c271ff;
+}
+
+.sear-btn {
+  background-color: #d7aef7;
+  width: 100%;
+  font-size: 1.5rem;
+  line-height: 30px;
+  color: #fff;
 }
