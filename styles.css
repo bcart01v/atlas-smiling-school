@@ -17,6 +17,11 @@ header.pricing {
   background-image: url(images/pricing_background.jpg)
 }
 
+header.courses {
+  background-image: url(images/background3.jpg)
+
+}
+
 .main-toggler {
   position: absolute;
   left: 10px;
