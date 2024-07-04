@@ -2,6 +2,14 @@ body {
   font-family: 'Source Sans Pro', Helvetica, serif;
 }
 
+.nav-item .nav-link.active {
+  color: #C271FF !important;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-underline-offset: 5px;
+}
+
+
 header {
   padding-bottom: 6rem;
   text-align: center;
